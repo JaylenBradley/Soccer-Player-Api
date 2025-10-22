@@ -1,0 +1,26 @@
+# Rider IDE
+.idea/
+
+# Build outputs (all nested projects)
+**/bin/
+**/obj/
+**/publish/
+**/artifacts/
+
+# NuGet / packages
+*.nupkg
+packages/
+
+# Test results
+TestResults/
+*.trx
+
+# macOS
+.DS_Store
+
+# Editor swap files
+*.swp
+*~
+
+# Optional local config (uncomment if needed)
+# appsettings.Development.json
