@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoccerPlayerApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14e06955b5dbad1fa8d19ba1ff19910a01e37647")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoccerPlayerApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoccerPlayerApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
